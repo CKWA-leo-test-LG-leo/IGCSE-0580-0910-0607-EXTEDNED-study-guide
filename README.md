@@ -5,6 +5,19 @@ for self-study, free; comprehensive, logical (absolutely, the project use AI to 
 **Syllabus Years:** 2025–2030  
 **Target Audience:** Grades 7–10, self‑learners, and exam candidates
 
+
+<div align="center">
+
+# IGCSE MATH 0580-0607
+
+> BASED ON **CC BY‑NC 4.0** 
+
+[![Mathematics](https://img.shields.io/badge/Subject-Mathematics-005B96?style=for-the-badge&logo=mathworks&logoColor=white)]()
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![GitHub](https://img.shields.io/badge/maintained%20with-❤️-ff69b4?style=flat-square)]()
+
+</div>
+
 ---
 
 ## Introduction
